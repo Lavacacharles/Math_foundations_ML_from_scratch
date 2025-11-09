@@ -1,2 +1,2 @@
-# CrisDrugs_ML_from_scratch
-Perdon por todo Germain, el siguiente datafest será para la casa
+# Resources
+- https://www.mavenanalytics.io/data-playground
